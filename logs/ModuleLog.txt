@@ -1,0 +1,7 @@
+﻿2021-03-02 15:54:33.896 INFO  [151376] [DllMain::<lambda_77267d93253eefd4192e763eb17dcc0d>::operator ()@622] Local Path: D:\Personal Roblox Exploit\TestSploit\bin\Debug
+2021-03-02 15:54:33.896 INFO  [151376] [DllMain::<lambda_77267d93253eefd4192e763eb17dcc0d>::operator ()@623] Roblox Path: C:\Users\PC\AppData\Local\Roblox\Versions\version-23850bffd15b4a88
+2021-03-02 15:54:33.896 INFO  [151376] [DllMain::<lambda_77267d93253eefd4192e763eb17dcc0d>::operator ()@624] Workspace Path: D:\Personal Roblox Exploit\TestSploit\bin\Debug\workspace
+2021-03-02 15:54:33.896 INFO  [151376] [DllMain::<lambda_77267d93253eefd4192e763eb17dcc0d>::operator ()@625] AutoExecute Path: D:\Personal Roblox Exploit\TestSploit\bin\Debug\autoexec
+2021-03-02 15:54:33.897 INFO  [151376] [DllMain::<lambda_77267d93253eefd4192e763eb17dcc0d>::operator ()@670] DLL Main Concluded.
+2021-03-02 15:54:33.946 INFO  [151088] [FluxusV6::KeySystem::InitFluxusKeyShit@575] HWID: UEMyMTQzNTgyMjE1
+2021-03-02 15:54:34.770 INFO  [151088] [FluxusV6::KeySystem::CreatePipe@562] Key was valid! Fluxus is ready for execution.
